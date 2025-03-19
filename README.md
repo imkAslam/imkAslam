@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kamran</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/Gen AI | MERN | NestJS | NextJS | Python | Cloud & DevOps</h3>
+<h1 align="center">Hi 👋, I'm Kamran Aslam</h1>
+<h3 align="center">🚀 Full Stack Engineer | MERN | Next.js | NestJS | FastAPI | DevOps | AI Enthusiast</h3>
+
+
+<!-- <h3 align="center">🚀 Full Stack Developer | AI/Gen AI | MERN | NestJS | NextJS | Python | Cloud & DevOps</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imkAslam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
