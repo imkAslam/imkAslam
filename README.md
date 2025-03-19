@@ -105,6 +105,10 @@
 🔹 **Cloud & DevOps:** Advancing in **Kubernetes, CI/CD, and AWS scaling strategies**  
 
 ---
+### **🔥 Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imkAslam&theme=github-dark)  
+ ---
+
 
 ## 📊 **GitHub Stats**  
 
@@ -112,9 +116,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imkAslam&show_icons=true&theme=radical" />
   &nbsp;<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imkAslam&theme=radical" />
 </p>
-<!-- <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imkaslam&show_icons=true&theme=radical" alt="imkaslam" />
-</p> -->
+
+---
+### **🚀 Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkAslam&layout=compact&theme=tokyonight)  
 
 ---
 
