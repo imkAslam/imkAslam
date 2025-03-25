@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imkAslam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkaslam" alt="imkaslam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkAslam" alt="imkAslam" /></a> </p>
 
 ---
 
