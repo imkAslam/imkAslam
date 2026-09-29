@@ -1,144 +1,304 @@
 <h1 align="center">Hi 👋, I'm Kamran Aslam</h1>
-<!-- <h3 align="center">🚀 Full Stack Engineer | MERN | Next.js | NestJS | FastAPI | DevOps | AI Enthusiast</h3> -->
-<h3 align="center">🚀 Full Stack Developer | AI/Gen AI | MERN ReactJs | React Native | NestJS | NextJS | Python | Cloud & DevOps</h3>
+
+<h3 align="center">
+Senior Full-Stack & AI Engineer · Node.js · React · TypeScript · Python · AI Systems
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imkAslam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  I build scalable web platforms, AI-powered products, and backend systems from architecture to production.
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkAslam" alt="imkAslam" /></a> </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamran-aslam-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/imkAslam">
+    <img src="https://img.shields.io/github/followers/imkAslam?label=GitHub&style=flat" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=imkAslam&label=Profile%20Views&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 🏆 About Me  
+## 👨‍💻 About Me
 
-🔹 **Full Stack Developer** with **5+ years of experience**, specializing in **AI-powered applications, scalable web systems, and cloud solutions**.  
-🔹 Proficient in **MERN Stack, NestJS, FastAPI, Python, and AI/Gen AI frameworks**.  
-🔹 Passionate about **Gen AI, Large Language Models (LLMs), and cutting-edge AI tools**.  
-🔹 Skilled in **LangChain, OpenAI, Hugging Face, and custom AI models & agents**.  
-🔹 Experienced in **Cloud & DevOps**, with expertise in **Docker, CI/CD, AWS, and Kubernetes**.  
+I'm a **Senior Full-Stack & AI Engineer with 6+ years of experience** building production software across SaaS, healthcare, fintech, AI platforms, real estate, education, and B2B systems.
 
----
+My core engineering strength is **Node.js + React + TypeScript**, with **Python/FastAPI** for AI and data-intensive services.
 
-## 🚀 **Tech Stack & Skills**  
+I work across the full lifecycle of a product — from system architecture and database design to APIs, frontend applications, AI pipelines, cloud infrastructure, CI/CD, and production troubleshooting.
 
-### **Frontend**  
-- 🚀 React.js | Next.js (App Router) | Redux | SWR  
-- 🎨 Tailwind CSS | Sass | Material UI | Ant Design  
+### What I work on
 
-### **Backend**  
-- 🏗️ Node.js | Express.js | NestJS | FastAPI  
-- 🔗 REST APIs | GraphQL | WebSockets  
-
-### **AI/Gen AI & Machine Learning**  
-- 🧠 LangChain | OpenAI APIs | Hugging Face | LlamaIndex  
-- 🤖 LLMs | NLP | Chatbots | Custom AI Agents  
-- 🔍 Vector Search (Qdrant, Pinecone, Weaviate)  
-- 📄 RAG (Retrieval-Augmented Generation) for AI-driven search  
-
-### **Databases**  
-- 🛢 PostgreSQL | MySQL | MongoDB | DynamoDB  
-- 🚀 Redis (Caching & Rate Limiting) | Qdrant (Vector DB)  
-
-### **DevOps & Cloud**  
-- 🐳 Docker | Kubernetes | CI/CD Pipelines  
-- ☁️ AWS (EC2, S3, Lambda, DynamoDB, CloudWatch)  
-- 🚦 Nginx | PM2  
-
-### **Testing & Automation**  
-- 🧪 Jest | React Testing Library | Cypress  
+* 🧩 **Full-Stack Engineering:** React, Next.js, Node.js, NestJS, TypeScript
+* 🐍 **Backend & AI Services:** Python, FastAPI, Node.js
+* 🤖 **AI Engineering:** LLM applications, RAG, AI agents, tool calling, vector search
+* 🧠 **LLM Infrastructure:** OpenAI, Anthropic, LiteLLM, LangChain, agent orchestration
+* 🗄️ **Data & Architecture:** PostgreSQL, MongoDB, Redis, vector databases, RBAC, multi-tenancy
+* ☁️ **Cloud & Infrastructure:** AWS, GCP, Docker, Nginx, CI/CD
+* ⚡ **Distributed Systems:** queues, background workers, WebSockets, caching, event-driven workflows
+* 🏗️ **Architecture:** scalable APIs, SaaS architectures, modular systems, service-oriented applications
 
 ---
 
-## 💼 **Projects & Experience**  
+# 🛠️ Core Tech Stack
 
-### **🚀 AI-Powered Chat with Documents (RAG System)**  
-**Role:** Full Stack Developer  
-- Built a **React.js & FastAPI-based chatbot** that allows users to chat with uploaded PDFs.  
-- Implemented **RAG (Retrieval-Augmented Generation)** for **intelligent document search**.  
-- Integrated **LangChain, Hugging Face models, and OpenAI APIs** for AI-driven responses.  
-- **Tech Stack:** React.js, FastAPI, Python, Qdrant, Redis, OpenAI APIs  
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+### AI & LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge" alt="LiteLLM" />
+  <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+</p>
+
+**AI capabilities:** RAG · AI Agents · Tool Calling · Embeddings · Semantic Search · Vector Search · Document Processing · LLM Routing · Streaming · Multi-turn Workflows
+
+### Databases & Storage
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+**Vector databases:** Qdrant · Pinecone · pgvector
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+**AWS:** EC2 · RDS · S3 · Lambda · CloudWatch · ALB · Elastic IP
+
+### Messaging & Background Processing
+
+`BullMQ` · `Redis` · `RabbitMQ` · `Kafka`
+
+### Testing
+
+`Jest` · `React Testing Library` · `Cypress`
 
 ---
 
-### **📚 MRS - Medical Research Synthesizer (SaaS)**  
-**Role:** Team Lead & Full Stack Developer  
-- Developed an **AI-powered article-fetching platform** with **real-time chat and data insights**.  
-- Integrated **Qdrant Vector DB** and **semantic search capabilities**.  
-- Built a **subscription model** using **Stripe payments**.  
-- **Tech Stack:** Next.js, FastAPI, PostgreSQL, LangChain, Redis, Hugging Face  
+# 🏗️ Selected Engineering Projects
+
+## 🤖 Fastyr.ai — AI Agent Platform
+
+Built the AI/backend architecture for a multi-application platform where users can create and operate AI agents across different interaction channels.
+
+### Key engineering work
+
+* Designed backend and database architecture for **AI agent lifecycle management**
+* Built agents that can be created, configured, executed, and automatically destroyed
+* Implemented **RAG pipelines** across PDFs, documents, websites, and databases
+* Built an **Agent Processor** using LiteLLM for model orchestration
+* Implemented configurable LLM, tool, RAG, and trigger settings
+* Built multi-turn tool execution workflows
+* Implemented triggers for mentions, DMs, voice interactions, and background execution
+* Built WebSocket-based streaming and typing experiences
+* Designed RBAC and application-level data isolation
+* Integrated external tools and services through Composio
+* Designed the PostgreSQL/Supabase data model
+
+**Stack:** Python · FastAPI · Next.js · TypeScript · PostgreSQL · Supabase · LiteLLM · OpenAI · RAG · AI Agents · WebSockets
 
 ---
 
-### **📝 AI-Powered Content Generator**  
-**Role:** AI & Full Stack Developer  
-- Developed a **custom AI model** to generate **blog posts, summaries, and insights**.  
-- Used **Hugging Face Transformers** and **OpenAI GPT models** for content generation.  
-- Integrated **fine-tuned NLP models** for **text classification and sentiment analysis**.  
-- **Tech Stack:** Next.js, Python, LangChain, OpenAI APIs, Hugging Face  
+## 🏥 Chughtai Labs ERP
+
+Architected and developed a laboratory operations and ERP platform supporting **300+ operating units**.
+
+### Key engineering work
+
+* Designed a PostgreSQL data model covering **40+ core tables**
+* Implemented inventory, procurement, accounting, dispatch, invoices, reporting, and expiry/disposal workflows
+* Built role-based access across **10+ operational roles**
+* Implemented audit history and traceability for critical business operations
+* Optimized complex database queries using indexes, CTEs, views, and query restructuring
+* Designed demand forecasting and procurement workflows
+* Built integrations for synchronizing external operational data
+* Implemented caching and performance optimizations
+* Deployed and maintained production infrastructure on AWS
+
+**Stack:** React · NestJS · TypeORM · PostgreSQL · AWS EC2 · Redis · Docker
 
 ---
 
-### **💬 Multi-Level Nested Comments System**  
-**Role:** Full Stack Developer  
-- Built a **Next.js & NestJS-based blog system** supporting **nested comments**.  
-- Implemented **SWR revalidation** for real-time updates.  
-- **Tech Stack:** Next.js, NestJS, PostgreSQL, SWR  
+## 🔬 MRS — Medical Research Synthesizer
+
+AI-powered SaaS platform for discovering, processing, and synthesizing medical research.
+
+### Key engineering work
+
+* Built AI-powered workflows around scientific literature
+* Implemented semantic search using vector embeddings
+* Designed document processing and retrieval pipelines
+* Built RAG functionality using LangChain and Qdrant
+* Developed real-time chat and research interfaces
+* Implemented subscription and billing workflows using Stripe
+* Built backend services with FastAPI and frontend applications with Next.js
+* Used Redis for caching and background processing
+
+**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Qdrant · Redis · LangChain · OpenAI · Stripe
 
 ---
 
-### **🏥 Chugtai Labs ERP System**  
-**Role:** Senior Software Engineer  
-- Developed an **ERP system** for **inventory & procurement management** across **300+ labs**.  
-- Designed and optimized **demand forecasting & purchase order** workflows.  
-- **Tech Stack:** React.js, NestJS, PostgreSQL, AWS, Docker  
+## 🏢 Ontezo — SaaS Platform
+
+Built a SaaS product from the ground up while working closely with a product manager and frontend developer.
+
+### Key engineering work
+
+* Designed the application architecture from scratch
+* Built backend services with NestJS and FastAPI
+* Implemented **RBAC and multi-tenancy**
+* Designed PostgreSQL data models and API architecture
+* Integrated OpenAI-powered functionality
+* Built the Next.js frontend
+* Set up AWS infrastructure and deployment workflows
+* Implemented GitHub Actions for CI/CD
+
+**Stack:** Next.js · React · TypeScript · NestJS · FastAPI · Python · PostgreSQL · OpenAI · AWS · GitHub Actions
 
 ---
 
-## 🌟 **Interests & Learning Goals**  
+# 🧠 AI Engineering
 
-🔹 **AI & Gen AI:** Experimenting with **LLMs, AI Agents, RAG, Hugging Face models**  
-🔹 **Full Stack Development:** Exploring **modern architectures, performance optimization, and microservices**  
-🔹 **Cloud & DevOps:** Advancing in **Kubernetes, CI/CD, and AWS scaling strategies**  
+My AI work focuses on building **production applications around LLMs**, rather than simply integrating a chatbot API.
+
+Areas I've worked with include:
+
+* Retrieval-Augmented Generation (RAG)
+* AI agents and agent orchestration
+* Multi-turn tool calling
+* LLM routing and fallback strategies
+* Embeddings and semantic search
+* Vector databases
+* Document ingestion and processing
+* Website and database knowledge retrieval
+* Structured LLM outputs
+* AI-powered search
+* Conversational interfaces
+* Background AI processing
+* Streaming AI responses
+* Configurable model and tool systems
+
+I've worked with **OpenAI, Anthropic, LiteLLM, LangChain, Qdrant, Pinecone, pgvector, Supabase and Composio** across different systems.
 
 ---
-### **🔥 Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imkAslam&theme=github-dark)  
- ---
 
+# 🏛️ Architecture & Backend
 
-## 📊 **GitHub Stats**  
+I enjoy working on the parts of a system that become important as the product grows:
+
+* Multi-tenant SaaS architecture
+* RBAC and authorization
+* PostgreSQL schema design
+* Row-Level Security
+* API architecture
+* Database indexing and query optimization
+* Redis caching
+* Background jobs and queues
+* WebSocket communication
+* Event-driven workflows
+* Audit logging
+* Soft deletion and data integrity
+* External API integrations
+* CI/CD and deployment automation
+* Production debugging and performance optimization
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+### AWS
+
+`EC2` · `RDS` · `S3` · `Lambda` · `CloudWatch` · `ALB` · `Elastic IP`
+
+### Infrastructure
+
+`Docker` · `Nginx` · `PM2` · `Linux`
+
+### CI/CD
+
+`GitHub Actions` · `Jenkins`
+
+### Other
+
+`GCP` · `Vercel` · `Supabase`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imkAslam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Kamran Aslam GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkAslam&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imkAslam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imkAslam&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in working on **full-stack products, AI platforms, SaaS systems, backend architecture, and technically challenging applications**.
+
+* 💼 LinkedIn: [linkedin.com/in/kamran-aslam-fullstack](https://www.linkedin.com/in/kamran-aslam-fullstack)
+* 🐙 GitHub: [github.com/imkAslam](https://github.com/imkAslam)
+* ✉️ Email: [kamranaslam184@gmail.com](mailto:kamranaslam184@gmail.com)
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imkAslam&show_icons=true&theme=radical" />
-  &nbsp;<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imkAslam&theme=radical" />
+  <a href="https://www.linkedin.com/in/kamran-aslam-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/imkAslam">
+    <img src="https://img.shields.io/badge/GitHub-imkAslam-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kamranaslam184@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
----
-### **🚀 Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkAslam&layout=compact&theme=tokyonight)  
-
----
-
-## 🛠️ **Languages & Tools**  
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
----
-
-## 🌍 **Let's Connect!**  
-
-- 🔗 **LinkedIn:** [linkedin.com/in/kamran-aslam-fullstack](https://www.linkedin.com/in/kamran-aslam-fullstack)  
-- 🔗 **GitHub:** [github.com/imkAslam](https://github.com/imkAslam)  
-- ✉️ **Email:** kamranaslam184@gmail.com
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kamran-aslam-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-aslam-fullstack/" height="30" width="40" /></a>
-<a href="https://kaggle.com/imkaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kamran" height="30" width="40" /></a>
-<a href="https://fb.com/Imk.Aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran aslam" height="30" width="40" /></a>
-<a href="https://instagram.com/imk.aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imk.aslam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kamranaslam184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamranaslam184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamran" height="30" width="40" /></a>
-</p>
-
----
-
-🔥 _"Innovating with AI, Scaling with Code!"_ 🚀  
