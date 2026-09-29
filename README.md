@@ -28,16 +28,16 @@ My core engineering strength is **Node.js + React + TypeScript**, complemented b
 
 I work across the complete product lifecycle — from **requirements and architecture to database design, application development, AI integration, data pipelines, cloud infrastructure, CI/CD, security, observability, and production operations**.
 
-I've worked across SaaS, healthcare, fintech, AI platforms, real estate, education, B2B systems, and internal enterprise platforms.
+I've worked across SaaS, healthcare, fintech, AI platforms, real estate, education, B2B systems, and enterprise platforms.
 
 ### What I build
 
 * 🏗️ **Solution Architecture:** scalable systems, SaaS platforms, multi-tenant architectures, service boundaries, integration architecture
-* ⚛️ **Full-Stack Applications:** React, Next.js, Node.js, NestJS, TypeScript
-* 🐍 **Backend & AI Services:** Python, FastAPI, Node.js
-* 🤖 **AI Systems:** LLM applications, RAG, AI agents, tool calling, vector search, AI workflows
-* 🔄 **Data Pipelines:** ingestion, transformation, ETL/ELT, document processing, event-driven workflows, background processing
-* 🗄️ **Data Architecture:** PostgreSQL, MongoDB, Redis, DynamoDB, vector databases, data modeling
+* ⚛️ **Full-Stack Applications:** React, Next.js, Node.js, NestJS,Bun, TypeScript
+* 🐍 **Backend & AI Services:** Python, FastAPI, Node.js , Bun.js
+* 🤖 **AI Systems:** LLM applications, RAG, AI agents, tool calling, vector search, AI workflows , MultiAgents Calling tools
+* 🔄 **Data Pipelines:** ingestion, transformation, ETL/ELT, document processing, event-driven workflows
+* 🗄️ **Data Architecture:** PostgreSQL, MongoDB, Redis, DynamoDB, vector databases
 * 🔐 **Security & Access:** RBAC, multi-tenancy, Row-Level Security, authentication and authorization
 * ☁️ **Cloud Architecture:** AWS, GCP, Docker, CI/CD, networking, deployment and production infrastructure
 * ⚡ **Distributed Systems:** queues, workers, caching, WebSockets, events, asynchronous processing
@@ -98,7 +98,7 @@ I work beyond individual features and think about how the **complete system fits
 
 # 🔄 Data Engineering & Pipelines
 
-I've worked on data flows where information moves across **external systems, APIs, databases, documents, queues, and AI processing layers**.
+I build data flows where information moves across **external systems, APIs, databases, documents, queues, and AI processing layers**.
 
 ### Data Pipeline Capabilities
 
@@ -135,13 +135,16 @@ I build **production AI systems**, not just chatbot interfaces.
 ### AI Systems
 
 * Retrieval-Augmented Generation (RAG)
+* Multi-agent orchestration
 * AI agents
-* Agent orchestration
-* Multi-turn tool calling
+* Agent-as-a-tool architectures
+* Tool calling
+* MCP integrations
+* Human-in-the-loop workflows
 * LLM routing
 * Model fallbacks
 * Structured LLM outputs
-* Streaming responses
+* Prompt-injection defense
 * Embeddings
 * Semantic search
 * Vector search
@@ -150,7 +153,8 @@ I build **production AI systems**, not just chatbot interfaces.
 * AI-powered search
 * Conversational systems
 * Background AI processing
-* AI workflow automation
+* Streaming responses
+* Voice AI pipelines
 
 ### AI Stack
 
@@ -161,11 +165,12 @@ I build **production AI systems**, not just chatbot interfaces.
   <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge" alt="LiteLLM" />
   <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge" alt="Model Context Protocol" />
 </p>
 
 **Platforms & Tools**
 
-`OpenAI` · `Anthropic` · `LiteLLM` · `LangChain` · `Qdrant` · `Pinecone` · `pgvector` · `Supabase` · `Composio`
+`OpenAI` · `Anthropic` · `OpenAI Agents SDK` · `LiteLLM` · `LangChain` · `Qdrant` · `Pinecone` · `pgvector` · `Supabase` · `Composio` · `MCP`
 
 ---
 
@@ -189,6 +194,7 @@ I build **production AI systems**, not just chatbot interfaces.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
 </p>
 
 ### Databases & Storage
@@ -201,7 +207,7 @@ I build **production AI systems**, not just chatbot interfaces.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**Vector Databases:** Qdrant · Pinecone · pgvector
+**Vector Databases:** `Qdrant` · `Pinecone` · `pgvector`
 
 ### Messaging & Distributed Processing
 
@@ -245,7 +251,7 @@ I build **production AI systems**, not just chatbot interfaces.
 
 # 🧑‍💻 AI-Assisted Development & Vibe Coding
 
-I use AI development tools as part of my engineering workflow to **speed up implementation, exploration, testing, refactoring, and documentation while keeping architecture and technical decisions under human control**.
+I use AI development tools to accelerate **implementation, exploration, testing, refactoring, documentation, and rapid product prototyping** while keeping architecture and engineering decisions under human control.
 
 ### AI Coding Tools
 
@@ -284,9 +290,79 @@ I use AI development tools as part of my engineering workflow to **speed up impl
 
 ---
 
-# 🏗️ Selected Engineering Projects
+# 🚀 Selected Engineering Projects
+
+## 🤖 Xerix AI — Multi-Agent AI Orchestration Platform
+
+**Python · FastAPI · TypeScript · Node.js · OpenAI Agents SDK · MCP · PostgreSQL · Redis · Kubernetes**
+
+Production-grade conversational AI platform designed around an orchestrator that routes requests to specialist agents and platform-created agents.
+
+### Key engineering work
+
+* Architected a **multi-agent orchestration system** using an agents-as-tools pattern
+* Built dynamically created agent blueprints with hot-reload and per-user agent isolation
+* Designed MCP integration services for Gmail, Google Drive, and Google Docs
+* Built a provider-agnostic finance integration layer using adapters for **Stripe, Plaid, and QuickBooks**
+* Designed encrypted OAuth token storage and per-user connection management
+* Implemented a **5-layer prompt-injection and jailbreak defense pipeline**
+* Added agent sandboxing, tool-boundary sanitization, moderation, and output guardrails
+* Built **human-in-the-loop financial workflows** where agents can request actions but humans authorize execution
+* Implemented Redis CAS-backed approval tickets and idempotent financial execution
+* Built append-only audit trails for sensitive operations
+* Designed a real-time voice pipeline using browser speech, Deepgram, and Whisper fallbacks
+* Implemented streaming TTS with sentence-level parallelization and barge-in support
+* Built AI/human takeover state management
+* Implemented semantic response caching with pgvector
+* Added model tiering and parallel agent fan-out
+* Deployed on Kubernetes with HPA, NetworkPolicies, Cilium, Prometheus, and Grafana
+
+---
+
+## ⚡ Rapid Launch Agent
+
+**AI Agents · Full-Stack Engineering · AI-Assisted Product Development**
+
+AI-focused product built around rapidly creating and launching agent-powered workflows.
+
+### Engineering focus
+
+* AI-first application architecture
+* Agent-powered workflows
+* Rapid product development and experimentation
+* Full-stack application implementation
+* AI-assisted development workflows
+* Integration of modern LLM capabilities into user-facing products
+
+**Project:** [rapidlaunchagent.com](https://www.rapidlaunchagent.com/)
+
+---
+
+## 💬 InvoCom — AI Customer Communication Platform
+
+**Next.js · Node.js · AI/ML · Chat · NLP · Customer Data · Analytics**
+
+Worked on an AI-powered customer communication platform combining **AI chatbot functionality, live chat, lead qualification, knowledge bases, ticketing, analytics, and customer engagement workflows**. The platform supports automated conversations, lead collection, conversation management, and integration with business systems.
+
+### Engineering focus
+
+* AI-powered customer support and conversational workflows
+* Chat and real-time communication systems
+* Lead qualification and customer engagement
+* Knowledge-base driven responses
+* Conversation and ticket management
+* Customer data and analytics
+* Integration with external business systems
+* NLP and sentiment-aware conversational workflows
+* Admin and team collaboration capabilities
+
+**Project:** [invocom.io](https://invocom.io/)
+
+---
 
 ## 🤖 Fastyr.ai — AI Agent Platform
+
+**Python · FastAPI · Next.js · TypeScript · PostgreSQL · Supabase · LiteLLM · OpenAI · RAG**
 
 Built the AI/backend architecture for a multi-application platform where users can create and operate AI agents across different interaction channels.
 
@@ -294,21 +370,21 @@ Built the AI/backend architecture for a multi-application platform where users c
 
 * Designed backend and database architecture for **AI agent lifecycle management**
 * Built agents that can be created, configured, executed, and automatically destroyed
-* Implemented **RAG pipelines** across PDFs, documents, websites, and databases
-* Built an **Agent Processor** using LiteLLM for model orchestration
+* Implemented RAG across PDFs, documents, websites, and databases
+* Built an Agent Processor using LiteLLM for model orchestration
 * Implemented configurable LLM, tool, RAG, and trigger settings
 * Built multi-turn tool execution workflows
-* Implemented triggers for mentions, DMs, voice interactions, and background execution
+* Implemented mentions, DMs, voice, and background triggers
 * Built WebSocket-based streaming and typing experiences
 * Designed RBAC and application-level data isolation
-* Integrated external tools and services through Composio
+* Integrated external tools through Composio
 * Designed the PostgreSQL/Supabase data model
-
-**Stack:** Python · FastAPI · Next.js · TypeScript · PostgreSQL · Supabase · LiteLLM · OpenAI · RAG · AI Agents · WebSockets
 
 ---
 
 ## 🏥 Chughtai Labs ERP
+
+**React · NestJS · TypeORM · PostgreSQL · AWS · Redis · Docker**
 
 Architected and developed a laboratory operations and ERP platform supporting **300+ operating units**.
 
@@ -324,11 +400,11 @@ Architected and developed a laboratory operations and ERP platform supporting **
 * Implemented caching and performance optimizations
 * Deployed and maintained production infrastructure on AWS
 
-**Stack:** React · NestJS · TypeORM · PostgreSQL · AWS EC2 · Redis · Docker
-
 ---
 
 ## 🔬 MRS — Medical Research Synthesizer
+
+**Next.js · FastAPI · Python · PostgreSQL · Qdrant · Redis · LangChain · OpenAI · Stripe**
 
 AI-powered SaaS platform for discovering, processing, and synthesizing medical research.
 
@@ -343,11 +419,11 @@ AI-powered SaaS platform for discovering, processing, and synthesizing medical r
 * Built backend services with FastAPI and frontend applications with Next.js
 * Used Redis for caching and background processing
 
-**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Qdrant · Redis · LangChain · OpenAI · Stripe
-
 ---
 
 ## 🏢 Ontezo — SaaS Platform
+
+**Next.js · React · TypeScript · NestJS · FastAPI · PostgreSQL · OpenAI · AWS**
 
 Built a SaaS product from the ground up while working closely with product and engineering teams.
 
@@ -362,8 +438,6 @@ Built a SaaS product from the ground up while working closely with product and e
 * Set up AWS infrastructure and deployment workflows
 * Implemented GitHub Actions for CI/CD
 
-**Stack:** Next.js · React · TypeScript · NestJS · FastAPI · Python · PostgreSQL · OpenAI · AWS · GitHub Actions
-
 ---
 
 # 🔐 Security, Scalability & Reliability
@@ -376,6 +450,9 @@ Built a SaaS product from the ground up while working closely with product and e
 * Authentication / authorization
 * API security
 * Tenant isolation
+* OAuth 2.0
+* Prompt-injection defense
+* Tool-boundary security
 * Audit logging
 * Secure secrets management
 
@@ -390,6 +467,7 @@ Built a SaaS product from the ground up while working closely with product and e
 * Query optimization
 * Asynchronous workflows
 * Service separation
+* Kubernetes HPA
 
 ### Reliability
 
@@ -399,8 +477,29 @@ Built a SaaS product from the ground up while working closely with product and e
 * Job queues
 * Monitoring and logging
 * Health checks
+* SLO-based alerting
 * Error tracking
 * Production debugging
+
+---
+
+# 🧪 Development & Engineering Practices
+
+* Type-safe API design
+* Clean architecture
+* Modular backend design
+* SOLID principles
+* Code review
+* Automated testing
+* CI/CD
+* Git workflows
+* API documentation
+* Database migrations
+* Observability
+* Performance profiling
+* Production debugging
+* Technical documentation
+* Agile / Scrum
 
 ---
 
@@ -430,7 +529,7 @@ Built a SaaS product from the ground up while working closely with product and e
 
 # 🤝 Let's Connect
 
-I'm interested in working on **full-stack products, AI platforms, SaaS systems, data-intensive applications, backend architecture, and technically challenging products**.
+I'm interested in working on **full-stack products, AI platforms, SaaS systems, data-intensive applications, backend architecture, AI infrastructure, and technically challenging products**.
 
 * 💼 LinkedIn: [linkedin.com/in/kamran-aslam-fullstack](https://www.linkedin.com/in/kamran-aslam-fullstack)
 * 🐙 GitHub: [github.com/imkAslam](https://github.com/imkAslam)
