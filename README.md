@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamran Aslam</h1>
 
 <h3 align="center">
-Senior Full-Stack & AI Engineer · Node.js · React · TypeScript · Python · AI Systems
+Senior Full-Stack & AI Engineer · Solution Architect · Node.js · React · TypeScript · Python
 </h3>
 
 <p align="center">
-  I build scalable web platforms, AI-powered products, and backend systems from architecture to production.
+  I design and build scalable software platforms, AI-powered products, data pipelines, and production-grade backend systems.
 </p>
 
 <p align="center">
@@ -22,26 +22,154 @@ Senior Full-Stack & AI Engineer · Node.js · React · TypeScript · Python · A
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack & AI Engineer with 6+ years of experience** building production software across SaaS, healthcare, fintech, AI platforms, real estate, education, and B2B systems.
+I'm a **Senior Full-Stack & AI Engineer with 6+ years of experience**, working across software engineering, AI systems, cloud infrastructure, data pipelines, and solution architecture.
 
-My core engineering strength is **Node.js + React + TypeScript**, with **Python/FastAPI** for AI and data-intensive services.
+My core engineering strength is **Node.js + React + TypeScript**, complemented by **Python/FastAPI** for AI, automation, data processing, and backend services.
 
-I work across the full lifecycle of a product — from system architecture and database design to APIs, frontend applications, AI pipelines, cloud infrastructure, CI/CD, and production troubleshooting.
+I work across the complete product lifecycle — from **requirements and architecture to database design, application development, AI integration, data pipelines, cloud infrastructure, CI/CD, security, observability, and production operations**.
 
-### What I work on
+I've worked across SaaS, healthcare, fintech, AI platforms, real estate, education, B2B systems, and internal enterprise platforms.
 
-* 🧩 **Full-Stack Engineering:** React, Next.js, Node.js, NestJS, TypeScript
+### What I build
+
+* 🏗️ **Solution Architecture:** scalable systems, SaaS platforms, multi-tenant architectures, service boundaries, integration architecture
+* ⚛️ **Full-Stack Applications:** React, Next.js, Node.js, NestJS, TypeScript
 * 🐍 **Backend & AI Services:** Python, FastAPI, Node.js
-* 🤖 **AI Engineering:** LLM applications, RAG, AI agents, tool calling, vector search
-* 🧠 **LLM Infrastructure:** OpenAI, Anthropic, LiteLLM, LangChain, agent orchestration
-* 🗄️ **Data & Architecture:** PostgreSQL, MongoDB, Redis, vector databases, RBAC, multi-tenancy
-* ☁️ **Cloud & Infrastructure:** AWS, GCP, Docker, Nginx, CI/CD
-* ⚡ **Distributed Systems:** queues, background workers, WebSockets, caching, event-driven workflows
-* 🏗️ **Architecture:** scalable APIs, SaaS architectures, modular systems, service-oriented applications
+* 🤖 **AI Systems:** LLM applications, RAG, AI agents, tool calling, vector search, AI workflows
+* 🔄 **Data Pipelines:** ingestion, transformation, ETL/ELT, document processing, event-driven workflows, background processing
+* 🗄️ **Data Architecture:** PostgreSQL, MongoDB, Redis, DynamoDB, vector databases, data modeling
+* 🔐 **Security & Access:** RBAC, multi-tenancy, Row-Level Security, authentication and authorization
+* ☁️ **Cloud Architecture:** AWS, GCP, Docker, CI/CD, networking, deployment and production infrastructure
+* ⚡ **Distributed Systems:** queues, workers, caching, WebSockets, events, asynchronous processing
+* 🧠 **AI-Assisted Development:** Claude Code, Cursor, Codex, GitHub Copilot and modern AI development workflows
 
 ---
 
-# 🛠️ Core Tech Stack
+# 🏛️ Solution Architecture
+
+I work beyond individual features and think about how the **complete system fits together**.
+
+### Architecture
+
+* System architecture and technical design
+* Modular monoliths and service-oriented architectures
+* Microservices where appropriate
+* Domain-driven service boundaries
+* Multi-tenant SaaS architecture
+* API and integration architecture
+* Event-driven architecture
+* Asynchronous processing
+* Real-time systems
+* AI system architecture
+* Data architecture
+* Cloud architecture
+* Security architecture
+* Scalability and performance planning
+
+### Application Architecture
+
+* React / Next.js application architecture
+* Node.js / NestJS backend architecture
+* Python / FastAPI services
+* API gateways and service boundaries
+* Background workers
+* Job queues
+* WebSocket services
+* Caching layers
+* External API integrations
+* Third-party platform integrations
+
+### Data Architecture
+
+* Relational database design
+* PostgreSQL schema architecture
+* Query optimization
+* Indexing strategies
+* Read/write optimization
+* Data isolation
+* Multi-tenant data models
+* Audit logging
+* Soft-delete strategies
+* Data lifecycle management
+* Vector database architecture
+* Search and retrieval architecture
+
+---
+
+# 🔄 Data Engineering & Pipelines
+
+I've worked on data flows where information moves across **external systems, APIs, databases, documents, queues, and AI processing layers**.
+
+### Data Pipeline Capabilities
+
+* ETL / ELT workflows
+* API-based data ingestion
+* Database synchronization
+* Batch processing
+* Background workers
+* Event-driven pipelines
+* Queue-based processing
+* Document ingestion
+* PDF and website processing
+* Data transformation and normalization
+* Data validation
+* Deduplication
+* Enrichment pipelines
+* Search indexing
+* Vector embedding pipelines
+* RAG ingestion pipelines
+* Scheduled jobs
+* Retry and failure handling
+* Pipeline monitoring
+
+### Technologies
+
+`Python` · `FastAPI` · `Node.js` · `PostgreSQL` · `Redis` · `BullMQ` · `RabbitMQ` · `Kafka` · `Qdrant` · `pgvector` · `S3`
+
+---
+
+# 🤖 AI & LLM Engineering
+
+I build **production AI systems**, not just chatbot interfaces.
+
+### AI Systems
+
+* Retrieval-Augmented Generation (RAG)
+* AI agents
+* Agent orchestration
+* Multi-turn tool calling
+* LLM routing
+* Model fallbacks
+* Structured LLM outputs
+* Streaming responses
+* Embeddings
+* Semantic search
+* Vector search
+* Document intelligence
+* Knowledge retrieval
+* AI-powered search
+* Conversational systems
+* Background AI processing
+* AI workflow automation
+
+### AI Stack
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge" alt="LiteLLM" />
+  <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+</p>
+
+**Platforms & Tools**
+
+`OpenAI` · `Anthropic` · `LiteLLM` · `LangChain` · `Qdrant` · `Pinecone` · `pgvector` · `Supabase` · `Composio`
+
+---
+
+# 🛠️ Core Engineering Stack
 
 ### Frontend
 
@@ -63,19 +191,6 @@ I work across the full lifecycle of a product — from system architecture and d
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-### AI & LLM Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge" alt="LiteLLM" />
-  <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
-</p>
-
-**AI capabilities:** RAG · AI Agents · Tool Calling · Embeddings · Semantic Search · Vector Search · Document Processing · LLM Routing · Streaming · Multi-turn Workflows
-
 ### Databases & Storage
 
 <p>
@@ -86,27 +201,86 @@ I work across the full lifecycle of a product — from system architecture and d
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**Vector databases:** Qdrant · Pinecone · pgvector
+**Vector Databases:** Qdrant · Pinecone · pgvector
 
-### Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
-
-**AWS:** EC2 · RDS · S3 · Lambda · CloudWatch · ALB · Elastic IP
-
-### Messaging & Background Processing
+### Messaging & Distributed Processing
 
 `BullMQ` · `Redis` · `RabbitMQ` · `Kafka`
 
-### Testing
+---
 
-`Jest` · `React Testing Library` · `Cypress`
+# ☁️ Cloud, DevOps & Infrastructure
+
+### AWS
+
+`EC2` · `RDS` · `S3` · `Lambda` · `CloudWatch` · `ALB` · `Elastic IP`
+
+### Infrastructure
+
+`Docker` · `Nginx` · `PM2` · `Linux`
+
+### CI/CD
+
+`GitHub Actions` · `Jenkins`
+
+### Cloud Platforms
+
+`AWS` · `GCP` · `Vercel` · `Supabase`
+
+### Production Engineering
+
+* Application deployment
+* Reverse proxies
+* SSL/TLS configuration
+* Process management
+* Environment management
+* CI/CD automation
+* Database operations
+* Logging and monitoring
+* Performance optimization
+* Production debugging
+* Cost-aware infrastructure design
+
+---
+
+# 🧑‍💻 AI-Assisted Development & Vibe Coding
+
+I use AI development tools as part of my engineering workflow to **speed up implementation, exploration, testing, refactoring, and documentation while keeping architecture and technical decisions under human control**.
+
+### AI Coding Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+### AI Development Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge" alt="Bolt" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge" alt="v0" />
+</p>
+
+### AI-Assisted Engineering Workflow
+
+* Architecture exploration
+* Code generation
+* Refactoring
+* Test generation
+* Debugging
+* Repository analysis
+* Documentation
+* Code review assistance
+* Parallel development workflows
+* Rapid prototyping
+* UI generation
+* Proof-of-concept development
+
+**Principle:** AI accelerates implementation; **architecture, system design, security, data modeling, trade-offs, testing strategy, and production decisions remain engineering responsibilities.**
 
 ---
 
@@ -143,7 +317,7 @@ Architected and developed a laboratory operations and ERP platform supporting **
 * Designed a PostgreSQL data model covering **40+ core tables**
 * Implemented inventory, procurement, accounting, dispatch, invoices, reporting, and expiry/disposal workflows
 * Built role-based access across **10+ operational roles**
-* Implemented audit history and traceability for critical business operations
+* Implemented audit history and traceability
 * Optimized complex database queries using indexes, CTEs, views, and query restructuring
 * Designed demand forecasting and procurement workflows
 * Built integrations for synchronizing external operational data
@@ -175,7 +349,7 @@ AI-powered SaaS platform for discovering, processing, and synthesizing medical r
 
 ## 🏢 Ontezo — SaaS Platform
 
-Built a SaaS product from the ground up while working closely with a product manager and frontend developer.
+Built a SaaS product from the ground up while working closely with product and engineering teams.
 
 ### Key engineering work
 
@@ -192,70 +366,41 @@ Built a SaaS product from the ground up while working closely with a product man
 
 ---
 
-# 🧠 AI Engineering
+# 🔐 Security, Scalability & Reliability
 
-My AI work focuses on building **production applications around LLMs**, rather than simply integrating a chatbot API.
+### Security
 
-Areas I've worked with include:
-
-* Retrieval-Augmented Generation (RAG)
-* AI agents and agent orchestration
-* Multi-turn tool calling
-* LLM routing and fallback strategies
-* Embeddings and semantic search
-* Vector databases
-* Document ingestion and processing
-* Website and database knowledge retrieval
-* Structured LLM outputs
-* AI-powered search
-* Conversational interfaces
-* Background AI processing
-* Streaming AI responses
-* Configurable model and tool systems
-
-I've worked with **OpenAI, Anthropic, LiteLLM, LangChain, Qdrant, Pinecone, pgvector, Supabase and Composio** across different systems.
-
----
-
-# 🏛️ Architecture & Backend
-
-I enjoy working on the parts of a system that become important as the product grows:
-
-* Multi-tenant SaaS architecture
-* RBAC and authorization
-* PostgreSQL schema design
+* RBAC
+* Multi-tenancy
 * Row-Level Security
-* API architecture
-* Database indexing and query optimization
-* Redis caching
-* Background jobs and queues
-* WebSocket communication
-* Event-driven workflows
+* Authentication / authorization
+* API security
+* Tenant isolation
 * Audit logging
-* Soft deletion and data integrity
-* External API integrations
-* CI/CD and deployment automation
-* Production debugging and performance optimization
+* Secure secrets management
 
----
+### Scalability
 
-# ☁️ Cloud & Infrastructure
+* Horizontal scaling
+* Stateless API design
+* Redis caching
+* Background workers
+* Queue-based processing
+* Database indexing
+* Query optimization
+* Asynchronous workflows
+* Service separation
 
-### AWS
+### Reliability
 
-`EC2` · `RDS` · `S3` · `Lambda` · `CloudWatch` · `ALB` · `Elastic IP`
-
-### Infrastructure
-
-`Docker` · `Nginx` · `PM2` · `Linux`
-
-### CI/CD
-
-`GitHub Actions` · `Jenkins`
-
-### Other
-
-`GCP` · `Vercel` · `Supabase`
+* Retry strategies
+* Failure handling
+* Idempotent processing
+* Job queues
+* Monitoring and logging
+* Health checks
+* Error tracking
+* Production debugging
 
 ---
 
@@ -285,7 +430,7 @@ I enjoy working on the parts of a system that become important as the product gr
 
 # 🤝 Let's Connect
 
-I'm interested in working on **full-stack products, AI platforms, SaaS systems, backend architecture, and technically challenging applications**.
+I'm interested in working on **full-stack products, AI platforms, SaaS systems, data-intensive applications, backend architecture, and technically challenging products**.
 
 * 💼 LinkedIn: [linkedin.com/in/kamran-aslam-fullstack](https://www.linkedin.com/in/kamran-aslam-fullstack)
 * 🐙 GitHub: [github.com/imkAslam](https://github.com/imkAslam)
