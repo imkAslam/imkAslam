@@ -334,8 +334,6 @@ AI-focused product built around rapidly creating and launching agent-powered wor
 * AI-assisted development workflows
 * Integration of modern LLM capabilities into user-facing products
 
-**Project:** [rapidlaunchagent.com](https://www.rapidlaunchagent.com/)
-
 ---
 
 ## 💬 InvoCom — AI Customer Communication Platform
@@ -355,8 +353,6 @@ Worked on an AI-powered customer communication platform combining **AI chatbot f
 * Integration with external business systems
 * NLP and sentiment-aware conversational workflows
 * Admin and team collaboration capabilities
-
-**Project:** [invocom.io](https://invocom.io/)
 
 ---
 
